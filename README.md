@@ -9,3 +9,8 @@ Uso o básico dentro do Frontend até o momento.
 Trabalhando com HTML5, CSS3 e JavaScript.
 
 Penso em dar próximos passos após melhor meu conhecimento sobre essa base tripla, focando e estudando mais em como deixar meus códigos limpos, reponsíveis e semânticos.
+
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cout098&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
