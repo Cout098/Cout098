@@ -13,4 +13,3 @@ Penso em dar próximos passos após melhorar meu conhecimento sobre essa base tr
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cout098&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
