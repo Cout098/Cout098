@@ -1,5 +1,5 @@
-## Bem vindo ao meu perfil no GitHub!
-###  Eu me chamo Breder!
+# Bem vindo ao meu perfil no GitHub!
+##  Eu me chamo Breder!
 
 Atualmente eu estou estudando desenvolvimento web, Frontend, pela Rocketseat, mas iniciei pelo sistema autodidata. Sempre buscando em fóruns e pelo youtube formas de exercitar minha lógica e semântica.
 
